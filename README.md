@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project analyzes Amazon Vine program which invole companies and users that will be paid to leave a review. It determines if there is a bias toward favorable reviews from Vine members by using PySpark with Google Colab to perform the ETL (Extract, Transform and load) to a PostgreSQL database on AWS RDS.
+This project analyzes Amazon Vine program which invole companies and users that will be paid to leave a review. It determines if there is a bias toward favorable reviews from Vine members by using PySpark with Google Colab to perform the ETL (Extract, Transform and load) to a PostgreSQL database.
 
 The purpose of this analysis is to determine if there is a bias in the Vine Program when users give a 5 stars review and I selected the Apparel dataset.
 
@@ -72,5 +72,5 @@ nonvine_program_users.show()
 
 ## Summary
 
-- Either Vine or non-Vine, It doesn't seems to have a bias in 5-star reviews in Vine members.
+- Either Vine or non-Vine, It doesn't seem to have a bias in 5-star reviews in Vine members.
 - Additional analysis oculd be: negative reviews with high votes or quartile analysis.
