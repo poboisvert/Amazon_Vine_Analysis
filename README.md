@@ -12,8 +12,19 @@ This project analyzes Amazon Vine program on Apparel and determines if there is 
 
 ### non-Vine and Vines reviews
 
+![preview](img/1.png)
+
+![preview](img/2.png)
+
 ### 5 stars non-Vine and Vines reviews
 
+![preview](img/3.png)
+
+![preview](img/4.png)
+
 ### Percentage 5 stars non-Vine and Vines reviews
+
+![preview](img/5.png)
+![preview](img/6.png)
 
 ## Summary
